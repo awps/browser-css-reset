@@ -1,0 +1,12 @@
+{
+  "name": "browser-css-reset",
+  "version": "1.0.3",
+  "description": "Browser CSS Reset",
+  "main": "index.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Surdu",
+  "license": "ISC",
+  "keywords": ["css", "scss", "less", "reset", "normalize", "browser"]
+}
